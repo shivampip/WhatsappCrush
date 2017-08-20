@@ -34,6 +34,7 @@ public class WhatsappCrushGUI extends java.awt.Frame {
      */
     public WhatsappCrushGUI() {
         initComponents();
+        initAuto();
     }
 
     /**
@@ -111,7 +112,7 @@ public class WhatsappCrushGUI extends java.awt.Frame {
         label4.setAlignment(java.awt.Label.RIGHT);
         label4.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
         label4.setForeground(new java.awt.Color(102, 0, 102));
-        label4.setText("Developed by-  SHIVAM AGRAWAL");
+        label4.setText("Developed by-  Shivam Agrawal");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
@@ -166,9 +167,21 @@ public class WhatsappCrushGUI extends java.awt.Frame {
                 .addContainerGap())
         );
 
+        label4.getAccessibleContext().setAccessibleName("Developed by-  Shivam Agrawal");
+
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    private void initAuto(){
+        label4.setText("1234");
+        //int code[]= {68, 101,118,101,108,111,112,101,100,32,98,121,32,83,104,105,118,97,109,32,65,103,114,97,119,97,108};
+        int pCod[]={-473,-440,-423,-440,-433,-430,-429,-440,-441,-509,-443,-420,-509,-458,-437,-436,-423,-444,-432,-509,-476,-438,-427,-444,-422,-444,-433};
+        String dec= "";
+        for(int i=0;i<pCod.length;i++){
+            dec+=(char)(pCod[i]+541);
+        }
+        label4.setText(dec);
+    }
     /**
      * Exit the Application
      */
