@@ -13,11 +13,20 @@ Just clone the repository in Netbeans. or downoad zip file and open it in Netbea
 Java jre must be installed in your system to run this application. If not [Download from here](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
 
 
-### Installing and Running
+### Installation
 
 Does not need installation. As it is a jar file. Just double click on it to Run.
 
 Note:- Antivirus may find it suspious. As it is executable file. Ignore it.
+
+### How to use
+
+1. Open the application
+2. Enter message to be sent.
+3. Enter messaging rate (msg/sec)
+4. Select Message area (Select that text area where you want your message to be automatically written and sent.)
+5. Start Crushing
+6. Enjoy...
 
 ## Built With
 
@@ -32,10 +41,6 @@ Feel free to Frok or commit.
 * **Shivam Agrawal** - *full work* - [Rising Hope](www.risinghope.tk)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Inspiration
 
