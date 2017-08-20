@@ -2,7 +2,7 @@
 
 Send Messages in bulk on any messaging platform. Facebook messagner , whatsapp or any other platform.
 
-![Screenshot](http://risinghopeapps.weebly.com/uploads/7/6/9/3/76932481/screenshot-2_1_orig.png)
+![Screenshotaa](/src/Screenshot_5.png)
 
 ## Getting Started
 
