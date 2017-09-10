@@ -45,3 +45,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## Inspiration
 
 * I tried to find any good automation project for bulk messaging. But I couldn't find except a lot of spams. So I decided to develop it. I searched for some automation classes in Java. I found Robot class. and then code....code...and code.....
+
+## License 
+* see [LICENSE](/LICENSE) file
